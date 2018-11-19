@@ -1,0 +1,4 @@
+/home/badcw/下载/clion-2018.1.6/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/badcw/extends/ACMcode/data_structure/1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/badcw/extends/ACMcode/data_structure/1/cmake-build-debug

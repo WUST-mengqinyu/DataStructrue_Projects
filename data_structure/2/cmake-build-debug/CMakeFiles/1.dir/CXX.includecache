@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/badcw/extends/ACMcode/data_structure/2/LinkedList.h
+Node.h
+/home/badcw/extends/ACMcode/data_structure/2/Node.h
+
+/home/badcw/extends/ACMcode/data_structure/2/Node.h
+
+/home/badcw/extends/ACMcode/data_structure/2/main.cpp
+cstdio
+-
+LinkedList.h
+/home/badcw/extends/ACMcode/data_structure/2/LinkedList.h
+
